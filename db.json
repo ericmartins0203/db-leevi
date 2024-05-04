@@ -1,52 +1,54 @@
-[
-  {
-    "id": 1,
-    "name": "Leandro",
-    "email": "leandro@gmail.com",
-    "password": "123456",
-    "data": [
-      {
-        "id": 1,
-        "month": "Março",
-        "savings": "0",
-        "balance": [
-          {
-            "id": 1,
-            "name": "Salário",
-            "value": 5000,
-            "type": "income",
-            "date": "2022-03-01"
-          },
-          {
-            "id": 2,
-            "name": "Aluguel",
-            "value": "1000",
-            "type": "outcome",
-            "essetial": true,
-            "category": "Casa",
-            "date": "2022-03-01"
-          },
-          {
-            "id": 3,
-            "name": "Faculdade",
-            "value": "500,00",
-            "type": "outcome",
-            "essetial": true,
-            "category": "Educação",
-            "date": "2022-03-02"
-          },
-          {
-            "id": 4,
-            "name": "Jantar fora",
-            "value": "200,19",
-            "type": "outcome",
-            "essetial": false,
-            "category": "Lazer",
-            "date": "2022-03-02"
-          }
-        ]
+{
+  "users" : [
+    {
+      "id": 1,
+      "name": "Leandro",
+      "email": "leandro@gmail.com",
+      "password": "123456",
+      "data": [
+        {
+          "id": 1,
+          "month": "Março",
+          "savings": "0",
+          "balance": [
+            {
+              "id": 1,
+              "name": "Salário",
+              "value": 5000,
+              "type": "income",
+              "date": "2022-03-01"
+            },
+            {
+              "id": 2,
+              "name": "Aluguel",
+              "value": "1000",
+              "type": "outcome",
+              "essetial": true,
+              "category": "Casa",
+              "date": "2022-03-01"
+            },
+            {
+              "id": 3,
+              "name": "Faculdade",
+              "value": "500,00",
+              "type": "outcome",
+              "essetial": true,
+              "category": "Educação",
+              "date": "2022-03-02"
+            },
+            {
+              "id": 4,
+              "name": "Jantar fora",
+              "value": "200,19",
+              "type": "outcome",
+              "essetial": false,
+              "category": "Lazer",
+              "date": "2022-03-02"
+            }
+          ]
 
-      }
-    ]
-  }
-]
+        }
+      ]
+    }
+  ]
+}
