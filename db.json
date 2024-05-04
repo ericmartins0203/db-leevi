@@ -23,7 +23,7 @@
               "name": "Aluguel",
               "value": "1000,00",
               "type": "outcome",
-              "essetial": true,
+              "essential": true,
               "category": "Casa",
               "date": "2022-03-01"
             },
@@ -32,7 +32,7 @@
               "name": "Faculdade",
               "value": "500,00",
               "type": "outcome",
-              "essetial": true,
+              "essential": true,
               "category": "Educação",
               "date": "2022-03-02"
             },
@@ -41,7 +41,7 @@
               "name": "Jantar fora",
               "value": "200,19",
               "type": "outcome",
-              "essetial": false,
+              "essential": false,
               "category": "Lazer",
               "date": "2022-03-02"
             }
@@ -55,16 +55,16 @@
             {
               "id": 1,
               "name": "Salário",
-              "value": 5000,
+              "value": "5000,00",
               "type": "income",
               "date": "2022-03-01"
             },
             {
               "id": 2,
               "name": "Aluguel",
-              "value": "1000",
+              "value": "1000,00",
               "type": "outcome",
-              "essetial": true,
+              "essential": true,
               "category": "Casa",
               "date": "2022-03-01"
             },
@@ -73,7 +73,7 @@
               "name": "Faculdade",
               "value": "500,00",
               "type": "outcome",
-              "essetial": true,
+              "essential": true,
               "category": "Educação",
               "date": "2022-03-02"
             },
@@ -82,7 +82,7 @@
               "name": "Jantar fora",
               "value": "200,19",
               "type": "outcome",
-              "essetial": false,
+              "essential": false,
               "category": "Lazer",
               "date": "2022-03-02"
             }
