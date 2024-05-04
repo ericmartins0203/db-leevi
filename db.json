@@ -38,8 +38,8 @@
             },
             {
               "id": 4,
-              "name": "Jantar fora",
-              "value": "200,19",
+              "name": "Viagem",
+              "value": "1500,99",
               "type": "outcome",
               "essential": false,
               "category": "Lazer",
